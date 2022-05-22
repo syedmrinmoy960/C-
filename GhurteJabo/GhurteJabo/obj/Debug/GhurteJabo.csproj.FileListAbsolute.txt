@@ -1,0 +1,8 @@
+D:\c#\GhurteJabo\GhurteJabo\bin\Debug\GhurteJabo.exe
+D:\c#\GhurteJabo\GhurteJabo\bin\Debug\GhurteJabo.exe.config
+D:\c#\GhurteJabo\GhurteJabo\obj\Debug\GhurteJabo.LoginForm.resources
+D:\c#\GhurteJabo\GhurteJabo\obj\Debug\GhurteJabo.Properties.Resources.resources
+D:\c#\GhurteJabo\GhurteJabo\obj\Debug\GhurteJabo.csproj.GenerateResource.cache
+D:\c#\GhurteJabo\GhurteJabo\obj\Debug\GhurteJabo.csproj.CoreCompileInputs.cache
+D:\c#\GhurteJabo\GhurteJabo\obj\Debug\GhurteJabo.exe
+D:\c#\GhurteJabo\GhurteJabo\obj\Debug\GhurteJabo.pdb
